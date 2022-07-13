@@ -2,5 +2,5 @@
     "markdown.marp.themes": [
         "./themes/irr-standard.css"
     ],
-    "markdown.marp.exportType": "pptx"
+    "markdown.marp.exportType": "png"
 }
